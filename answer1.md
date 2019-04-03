@@ -7,7 +7,7 @@
 * isSubset([A,B,C,D,E], [A,D,Z]) = false
 * isSubset([A,D,E], [A,A,D,E])   = true
 
-### Answer
+### Answer:
 ```js
 const isSubset = (a,b) => {
   return b.find( findItem_B => {
