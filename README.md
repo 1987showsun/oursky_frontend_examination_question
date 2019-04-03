@@ -15,7 +15,7 @@ function createArrayOfFunctions(y) {
 ```
 
 ### Answer:
-- 1.
+1.
 ```js
 function createArrayOfFunctions(y) {
   var arr = [];
@@ -26,7 +26,7 @@ function createArrayOfFunctions(y) {
 }
 ```
 > or
-- 2.
+2.
  ```js
 function createArrayOfFunctions(y) {
   var arr  = [];
